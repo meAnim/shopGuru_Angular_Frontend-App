@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "shopGuru-app"
+    }
+  },
+  "defaultProject": "shopGuru-app",
+  "cli": {
+    "analytics": "3dddb2ee-fab9-43f4-beab-e2b08cb13e0e"
+  }
 }

@@ -7,9 +7,10 @@ import { AppComponent } from './app.component';
 import { LoginPageComponent } from './login-page/login-page.component';
 import { MainMenubarComponent } from './main-menubar/main-menubar.component';
 import { HomePageComponent } from './home-page/home-page.component';
+import { FooterBlockComponent } from './footer-block/footer-block.component';
 
 @NgModule({
-  declarations: [AppComponent, LoginPageComponent, MainMenubarComponent, HomePageComponent],
+  declarations: [AppComponent, LoginPageComponent, MainMenubarComponent, HomePageComponent, FooterBlockComponent],
   imports: [BrowserModule, FormsModule, AppRoutingModule],
   providers: [],
   bootstrap: [AppComponent],
